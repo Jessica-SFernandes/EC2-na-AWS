@@ -56,7 +56,7 @@ Aplicar na prática os principais conceitos aprendidos nas aulas de **EC2**, **A
 ---
 
 ## 🖼️ Evidências Visuais
-As imagens estão disponíveis na pasta [`/images`](./images):
+As imagens estão disponíveis na pasta [`/images`](https://github.com/Jessica-SFernandes/EC2-na-AWS/tree/main/imagens):
 
 *(As imagens demonstram o processo passo a passo realizado no laboratório.)*
 
